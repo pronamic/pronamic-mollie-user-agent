@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/github-banner.png" alt=""></p>
+
 # Pronamic Mollie User Agent
 
 [![Latest Stable Version](http://poser.pugx.org/pronamic/pronamic-mollie-user-agent/v)](https://packagist.org/packages/pronamic/pronamic-mollie-user-agent)
