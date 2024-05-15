@@ -10,7 +10,7 @@
  * Plugin Name: Pronamic Mollie User Agent
  * Plugin URI: https://wp.pronamic.directory/plugins/pronamic-mollie-user-agent/
  * Description: This WordPress plugin sets a specific user agent string for all HTTP API requests to Mollie for the partnership with Pronamic.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 6.1
  * Requires PHP: 8.0
  * Author: Pronamic
