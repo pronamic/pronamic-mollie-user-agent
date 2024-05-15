@@ -11,6 +11,6 @@
 	"license": "GPL-2.0-or-later",
 	"private": true,
 	"devDependencies": {
-		"@wordpress/env": "^8.9.0"
+		"@wordpress/env": "^9.9.0"
 	}
 }
